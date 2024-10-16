@@ -40,15 +40,38 @@
 Динамика общего числа пользователей
 ![Количество уникальных пользователей в день](https://github.com/TODUR8/messenger/blob/main/diagram/1_diagram.png)
 
-![Название](ссылка)
+
+![Количество уникальных пользователей в неделю](https://github.com/TODUR8/messenger/blob/main/diagram/2_diagram.png)
+
+
+![DAU новые пользователи и старые пользователи](https://github.com/TODUR8/messenger/blob/main/diagram/3_diagram.png)
+
+
+![Лайки и просмотры](https://github.com/TODUR8/messenger/blob/main/diagram/4_diagram.png)
+
+
+![Средний CTR по дням](https://github.com/TODUR8/messenger/blob/main/diagram/5_diagram.png)
+
+
+![Количество событий на одного пользователя](https://github.com/TODUR8/messenger/blob/main/diagram/6_diagram.png)
+
 
 
 **Этап 2.** 
 Построим график Retention.
 Построим график новых, старых и ушедших пользователей по неделям.
 
+![Retention по кагортам](https://github.com/TODUR8/messenger/blob/main/diagram/7_diagram.png)
+
+На графики видим что в течение недели нам удается удержать примерно 20 процентов новых пользователей, а концу второй недели остается примерно 15 процентов. 
+
+
+![График новых, старых и ушедших пользователей](https://github.com/TODUR8/messenger/blob/main/diagram/8_diagram.png)
+
 **Этап 3.** 
 С помощью А/B-теста оценим новый алгоритм рекомендации постов.
+
+![пример](https://github.com/TODUR8/messenger/blob/main/diagram/1_diagram.png)
 
 **Этап 4.** 
 Сформулируем выводы.
